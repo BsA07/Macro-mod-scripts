@@ -5,12 +5,12 @@ Wait(1500ms)
 echo("gg")
 ENDIF
 
-IFCONTAINS(%&chat%,[Party] Lezappen: gg)
+IFCONTAINS(%&chat%,[Party] _KoVaLeVsKy1_: gg)
 Wait(500ms)
 echo("!gg")
 ENDIF
 
-//Slime survival
+//eggwars
 IFCONTAINS(%&chat%,+25 experience)
 Wait(500ms)
 echo("gg")
